@@ -29,6 +29,6 @@ public class DiscardPile {
     }
 
     public int topCard() {
-
+  return 0;
     }
 }
